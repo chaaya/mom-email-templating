@@ -1,0 +1,26 @@
+{
+  "name": "mom-email-templating",
+  "version": "1.0.0",
+  "description": "A template engine for email generation",
+  "main": "gulpfile.js",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-inline-css": "^3.1.0",
+    "gulp-include-template": "^0.2.1"
+  },
+  "scripts": {
+    "test": ""
+  },
+  "author": "elias chaaya",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-inline-css": "^3.1.0",
+    "gulp-include-template": "^0.2.1"
+  },
+  "keywords": [
+    "template",
+    "engine",
+    "email"
+  ]
+}

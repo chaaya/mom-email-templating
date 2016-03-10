@@ -1,0 +1,34 @@
+body {
+    font-family: 'Arial';
+    font-size: 18px;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+p {
+    font-style:italic;
+}
+
+span.user-password {
+    font-weight: bold;
+}
+
+span.username {
+    font-weight: bold;
+    color: blue;
+    text-transform: uppercase;
+}
+
+div.company-logo {
+    background: url('http://www.momentum.se/wp-content/themes/momentum2014/assets/img/momentum_logo.png') no-repeat;
+    width: 700;
+    height: 50px;
+}
+
+footer {
+    margin-top: 40px;
+    font-style: italic;
+    border-top: 1px solid black;
+}
